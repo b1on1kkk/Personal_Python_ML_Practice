@@ -1,1 +1,1 @@
-## files to practice NumPy 
+## Just practice NumPy 
